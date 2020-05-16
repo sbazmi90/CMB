@@ -29,3 +29,6 @@ map.f90 + fft.f90
 
 Generate Fractional Gaussian Noise based on the hurst exponent
 
+
+MVSK.f90: This code computes mean, variance, skewness and kurtosis of the field.
+
